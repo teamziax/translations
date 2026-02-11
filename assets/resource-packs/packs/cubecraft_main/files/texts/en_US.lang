@@ -1,0 +1,25 @@
+﻿action.hint.exit.player=Tap sneak to dismount
+action.hint.exit.cubecraft:minerware.flyingsaucer=.
+
+item.cubecraft:dragon_wand.name=Dragon Wand
+item.cubecraft:frost_wand.name=Frostpath Wand
+item.cubecraft:invisibility_wand.name=Invisibility Wand
+item.cubecraft:lucky_block_wand.name=Lucky Block Wand
+item.cubecraft:potion_wand_negativity.name=Potion Wand
+item.cubecraft:potion_wand_positivity.name=Potion Wand
+item.cubecraft:regen_wand.name=Regen Wand
+item.cubecraft:shield_wand.name=Shield Wand
+item.cubecraft:slime_wand.name=Slime Wand
+item.cubecraft:thors_hammer.name=Thor's Hammer
+item.cubecraft:tnt_wand.name=TNT Wand
+
+item.cubecraft:game_selector.name=§4§k||§r§9§lTravel§r§4§k||§r
+item.cubecraft:game_voting.name=§aVoting
+item.cubecraft:gift_menu.name=§6§k||§r§e§lGifts§r§6§k||§r
+item.cubecraft:kit_selection.name=§aKit Selection
+item.cubecraft:leave_game.name=§4Return to the Lobby
+item.cubecraft:lobby_selector.name=§d§k||§r§a§lLobbies§r§d§k||§r
+item.cubecraft:loot_menu.name=§1§k||§r§6§lLoot§r§1§k||§r
+item.cubecraft:play_again.name=§aGame Teleporter
+item.cubecraft:skyblock_settings.name=§e§lSkyblock Menu
+item.cubecraft:social_menu.name=§a§k||§r§e§lSocial Menu§r§a§k||§r
