@@ -1,13 +1,13 @@
 item.cubecraft\:thors_hammer.name=Thor'un Çekici
 item.cubecraft\:tnt_wand.name=TNT Asası
-item.cubecraft\:game_selector.name=§4§k||§r§9§lSeyahat§r§4§k||§r
+item.cubecraft\:game_selector.name=§4§k||§r§9§lYolculuk et§r§4§k||§r
 item.cubecraft\:game_voting.name=§aOylama
 item.cubecraft\:gift_menu.name=§6§k||§r§e§lHediyeler§r§6§k||§r
 item.cubecraft\:kit_selection.name=§aKit Seçimi
 item.cubecraft\:leave_game.name=§4Lobiye Dön
 item.cubecraft\:lobby_selector.name=§d§k||§r§a§lLobiler§r§d§k||§r
 item.cubecraft\:loot_menu.name=§1§k||§r§6§lGanimet§r§1§k||§r
-item.cubecraft\:play_again.name=§aOyun Işınlayıcı
+item.cubecraft\:play_again.name=§aOyun Işınlayıcısı
 action.hint.exit.cubecraft\:minerware.flyingsaucer=.
 item.cubecraft\:dragon_wand.name=Ejderha Asası
 item.cubecraft\:frost_wand.name=Buzlu Yol Asası
