@@ -15,3 +15,7 @@ item.cubecraft\:game_selector.name=§4§k||§r§9§lViajar§r§4§k||§r
 item.cubecraft\:game_voting.name=§aVotación
 item.cubecraft\:gift_menu.name=§6§k||§r§e§lRegalos§r§6§k||§r
 item.cubecraft\:kit_selection.name=§aSelección de Kit
+item.cubecraft\:leave_game.name=§4Volver al Lobby
+item.cubecraft\:lobby_selector.name=§d§k||§r§a§lLobbies§r§d§k||§r
+item.cubecraft\:loot_menu.name=§1§k||§r§6§lLoot§r§1§k||§r
+item.cubecraft\:play_again.name=§aTeletransportador de Juegos
