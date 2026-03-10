@@ -1,1 +1,5 @@
-
+action.hint.exit.player=Pulsa agachar para desmontarte
+action.hint.exit.cubecraft\:buddy.epicdragon=Pulsa agachar para desmontarte
+action.hint.exit.cubecraft\:train_carriage=Pulsa agachar para desmontarte
+action.hint.exit.cubecraft\:hot_air_balloon=Pulsa agachar para desmontarte
+action.hint.exit.cubecraft\:sitting.entity=Pulsa agachar para desmontarte
