@@ -1,1 +1,5 @@
-
+ui.featuredButton=¡POPULAR!
+ui.newButton=¡NUEVO!
+ui.tab1=TODOS LOS JUEGOS
+ui.tab2=DESTACADO
+ui.tab3=FAVORITOS
