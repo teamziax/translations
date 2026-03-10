@@ -1,1 +1,7 @@
-
+action.hint.exit.player=Pulsa agachar para desmontarte
+action.hint.exit.cubecraft\:minerware.flyingsaucer=.
+item.cubecraft\:dragon_wand.name=Varita de Dragón
+item.cubecraft\:frost_wand.name=Varita de Caminos Helados
+item.cubecraft\:invisibility_wand.name=Varita de Invisibilidad
+item.cubecraft\:lucky_block_wand.name=Varita de Lucky Block
+item.cubecraft\:potion_wand_negativity.name=Varita de Poción
