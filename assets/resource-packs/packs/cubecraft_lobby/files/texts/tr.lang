@@ -1,1 +1,5 @@
-
+action.hint.exit.player=İnmek için eğilme butonuna basın
+action.hint.exit.cubecraft\:buddy.epicdragon=İnmek için eğilme butonuna basın
+action.hint.exit.cubecraft\:train_carriage=İnmek için eğilme butonuna basın
+action.hint.exit.cubecraft\:hot_air_balloon=İnmek için eğilme butonuna basın
+action.hint.exit.cubecraft\:sitting.entity=İnmek için eğilme butonuna basın
