@@ -20,3 +20,4 @@ item.cubecraft\:shield_wand.name=Kalkan Asası
 item.cubecraft\:slime_wand.name=Balçık Asası
 item.cubecraft\:skyblock_settings.name=§e§lSkyblock Menüsü
 item.cubecraft\:social_menu.name=§a§k||§r§e§lSosyal Menü§r§a§k||§r
+action.hint.exit.player=İnmek için eğilme butonuna basın
