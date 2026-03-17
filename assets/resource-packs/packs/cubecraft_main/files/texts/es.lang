@@ -19,3 +19,5 @@ item.cubecraft\:leave_game.name=§4Volver al Lobby
 item.cubecraft\:lobby_selector.name=§d§k||§r§a§lLobbies§r§d§k||§r
 item.cubecraft\:loot_menu.name=§1§k||§r§6§lLoot§r§1§k||§r
 item.cubecraft\:play_again.name=§aTeletransportador de Juegos
+item.cubecraft\:skyblock_settings.name=§e§lMenú de SkyBlock
+item.cubecraft\:social_menu.name=§a§k||§r§e§lMenú Social§r§a§k||§r
