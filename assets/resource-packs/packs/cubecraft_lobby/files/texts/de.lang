@@ -1,1 +1,5 @@
-
+action.hint.exit.player=Tippe Schleichen, um abzusteigen
+action.hint.exit.cubecraft\:buddy.epicdragon=Tippe Schleichen, um abzusteigen
+action.hint.exit.cubecraft\:train_carriage=Tippe Schleichen, um abzusteigen
+action.hint.exit.cubecraft\:hot_air_balloon=Tippe Schleichen, um abzusteigen
+action.hint.exit.cubecraft\:sitting.entity=Tippe Schleichen, um abzusteigen
