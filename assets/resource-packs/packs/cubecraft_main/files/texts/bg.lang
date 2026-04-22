@@ -1,1 +1,9 @@
-
+action.hint.exit.cubecraft\:minerware.flyingsaucer=.
+item.cubecraft\:dragon_wand.name=Драконска Пръчка
+item.cubecraft\:thors_hammer.name=Чукът на Тор
+item.cubecraft\:tnt_wand.name=TNT Пръчка
+item.cubecraft\:game_selector.name=§4§k||§r§9§lПътуване§r§4§k||§r
+item.cubecraft\:game_voting.name=§aГласуване
+item.cubecraft\:gift_menu.name=§6§k||§r§e§lПодаръци§r§6§k||§r
+item.cubecraft\:kit_selection.name=§aKit Избор
+item.cubecraft\:leave_game.name=§4Връщане към Лобито
