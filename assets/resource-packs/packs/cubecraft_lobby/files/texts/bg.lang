@@ -1,1 +1,5 @@
-
+action.hint.exit.player=Докосни приклякане за да слезеш
+action.hint.exit.cubecraft\:buddy.epicdragon=Докосни приклякане за да слезеш
+action.hint.exit.cubecraft\:train_carriage=Докосни приклякане за да слезеш
+action.hint.exit.cubecraft\:hot_air_balloon=Докосни приклякане за да слезеш
+action.hint.exit.cubecraft\:sitting.entity=Докосни приклякане за да слезеш
