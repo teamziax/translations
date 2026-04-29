@@ -1,1 +1,5 @@
-
+action.hint.exit.player=スニークをタップして降りる
+action.hint.exit.cubecraft\:buddy.epicdragon=スニークをタップして降りる
+action.hint.exit.cubecraft\:train_carriage=スニークをタップして降りる
+action.hint.exit.cubecraft\:hot_air_balloon=スニークをタップして降りる
+action.hint.exit.cubecraft\:sitting.entity=スニークをタップして降りる
