@@ -1,1 +1,7 @@
-
+action.hint.exit.player=スニークをタップして降りる
+action.hint.exit.cubecraft\:minerware.flyingsaucer=.
+item.cubecraft\:dragon_wand.name=ドラコンの杖
+item.cubecraft\:frost_wand.name=氷の杖
+item.cubecraft\:invisibility_wand.name=透明化の杖
+item.cubecraft\:lucky_block_wand.name=ラッキーブロックの杖
+item.cubecraft\:potion_wand_negativity.name=ポーションの杖
