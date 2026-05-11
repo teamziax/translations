@@ -3,3 +3,6 @@ item.cubecraft\:dragon_wand.name=Sceptre du dragon
 item.cubecraft\:frost_wand.name=Sceptre Gelé
 item.cubecraft\:invisibility_wand.name=Sceptre d'invisibilité
 action.hint.exit.player=Appuyez sur accroupi pour descendre
+item.cubecraft\:lucky_block_wand.name=Sceptre des blocs chanceux
+item.cubecraft\:potion_wand_negativity.name=Sceptre de potion
+item.cubecraft\:potion_wand_positivity.name=Sceptre des potions
