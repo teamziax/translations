@@ -1,1 +1,5 @@
-
+ui.featuredButton=ПОПУЛЯРНО!
+ui.newButton=НОВИНКА!
+ui.tab1=ВСЕ ИГРЫ
+ui.tab2=ПРЕДЛАГАЕМОЕ
+ui.tab3=ФАВОРИТЫ
