@@ -1,3 +1,17 @@
 action.hint.exit.player=Нажмите Красться, чтобы спешиться
 action.hint.exit.cubecraft\:minerware.flyingsaucer=.
 item.cubecraft\:game_voting.name=§aГолосование
+item.cubecraft\:dragon_wand.name=Посох Дракона
+item.cubecraft\:frost_wand.name=Посох Ледяной дороги
+item.cubecraft\:invisibility_wand.name=Посох Невидимости
+item.cubecraft\:lucky_block_wand.name=Посох Лаки Блока
+item.cubecraft\:potion_wand_negativity.name=Посох Зелий
+item.cubecraft\:potion_wand_positivity.name=Посох Зелий
+item.cubecraft\:regen_wand.name=Посох Регенерации
+item.cubecraft\:shield_wand.name=Посох Щита
+item.cubecraft\:slime_wand.name=Посох Слизня
+item.cubecraft\:thors_hammer.name=Молот Тора
+item.cubecraft\:tnt_wand.name=Посох TNT
+item.cubecraft\:game_selector.name=§4§k||§r§9§lПутешествие§r§4§k||§r
+item.cubecraft\:gift_menu.name=§6§k||§r§e§lПодарки§r§6§k||§r
+item.cubecraft\:kit_selection.name=§aВыбрать набор
