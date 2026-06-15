@@ -1,1 +1,5 @@
-
+action.hint.exit.player=轻触潜行离开载具
+action.hint.exit.cubecraft\:buddy.epicdragon=轻触潜行离开载具
+action.hint.exit.cubecraft\:train_carriage=轻触潜行离开载具
+action.hint.exit.cubecraft\:hot_air_balloon=轻触潜行离开载具
+action.hint.exit.cubecraft\:sitting.entity=轻触潜行离开载具
