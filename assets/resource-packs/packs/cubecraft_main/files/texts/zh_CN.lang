@@ -1,1 +1,8 @@
-
+action.hint.exit.player=轻触潜行离开载具
+action.hint.exit.cubecraft\:minerware.flyingsaucer=.
+item.cubecraft\:dragon_wand.name=龙法杖
+item.cubecraft\:invisibility_wand.name=隐身法杖
+item.cubecraft\:lucky_block_wand.name=幸运方块法杖
+item.cubecraft\:potion_wand_negativity.name=药水法杖
+item.cubecraft\:potion_wand_positivity.name=药水法杖
+item.cubecraft\:regen_wand.name=恢复法杖
