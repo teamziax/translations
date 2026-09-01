@@ -1,15 +1,4 @@
-﻿tile.cubecraft:auto_miner_common.name=Common Auto Harvester
-tile.cubecraft:auto_miner_uncommon.name=Uncommon Auto Harvester
-tile.cubecraft:auto_miner_rare.name=Rare Auto Harvester
-tile.cubecraft:auto_miner_legendary.name=Legendary Auto Harvester
-tile.cubecraft:auto_miner_mythical.name=Mythical Auto Harvester
-item.cubecraft:skyblock.beef_stew=Beef Stew
-item.cubecraft:skyblock.chicken_and_potato_pie=Chicken and Potato Pie
-item.cubecraft:skyblock.chocolate=Chocolate
-item.cubecraft:skyblock.snowberry_cake=Snowberry Cake
-item.cubecraft:skyblock.snowberries=Snowberries
-item.cubecraft:skyblock.unsweetened_chocolate=Unsweetened Chocolate
-tile.cubecraft\:auto_miner_common.name=普通自动收割机
+﻿tile.cubecraft\:auto_miner_common.name=普通自动收割机
 tile.cubecraft\:auto_miner_uncommon.name=优秀自动收割机
 tile.cubecraft\:auto_miner_rare.name=稀有自动收割机
 tile.cubecraft\:auto_miner_legendary.name=传奇自动收割机
