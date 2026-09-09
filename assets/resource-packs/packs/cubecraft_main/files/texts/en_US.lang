@@ -1,5 +1,5 @@
 ﻿action.hint.exit.player=Tap sneak to dismount
-action.hint.exit.cubecraft\:minerware.flyingsaucer=.
+action.hint.exit.cubecraft\:minerware.flyingsaucer=§r
 
 item.cubecraft\:dragon_wand.name=Dragon Wand
 item.cubecraft\:frost_wand.name=Frostpath Wand
