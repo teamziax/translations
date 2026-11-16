@@ -1,1 +1,5 @@
-
+action.hint.exit.player=Tocca il tasto shift per scendere
+action.hint.exit.cubecraft\:buddy.epicdragon=Tocca il tasto shift per scendere
+action.hint.exit.cubecraft\:train_carriage=Clicca Shift per scendere
+action.hint.exit.cubecraft\:hot_air_balloon=Clicca Il tasto Shift per scendere
+action.hint.exit.cubecraft\:sitting.entity=Clicca Shift per scendere
